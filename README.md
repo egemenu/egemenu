@@ -1,3 +1,4 @@
+```javascript
 const egemen: Human = {
     name: "Egemen Unuvar",
     title: "Technical Director and Developer",
@@ -5,3 +6,4 @@ const egemen: Human = {
     hobbies: ["guitar", "trekking", "mountains"],
     website: "https://ege.im",
 }
+```
